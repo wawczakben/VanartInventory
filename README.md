@@ -1,2 +1,2 @@
-# VanartInventory
+# Vanart Inventory
 Capstone Project
